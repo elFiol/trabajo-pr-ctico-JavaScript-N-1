@@ -1,1 +1,1 @@
-document.write("<p class='anio'>hola mundo</p>");
+document.write("<p>hola mundo</p>");
